@@ -7,12 +7,12 @@ Here's I've listed the concepts you are supposed to learn.
 
 ## Basics
 
-- First C++ programm (Hello World)
-- Variables and their types
-- Data types
+- First C++ program (Hello World)
+- Variables and Data types
 - Operators in C++
 
 ***
+- **First C++ Program**
 In the folder **Hello-World** there exist a tutorial so that you can 
 write a program to see `Hello World` in output. In this tutorial I've used 
 
@@ -40,4 +40,24 @@ used `cout`.
 ```
 cout<<"Every thing here would be printed"<<endl
 ```
-`endl` is used for indicating that the line is finished and a new line would be added. Alternate command in `"\n"`. It just leads to the next line.   
+`endl` is used for indicating that the line is finished and a new line would be added. Alternate command in `"\n"`. It just leads to the next line.  
+See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/tree/main/hello-world)
+
+-**Variables and Data types**
+
+`int`: Holes for integer values  
+`char`: holed for character value like 'c', 'F', 'e', 'E', 'q', etc.  
+`bool`: holds boolean value, true or false  
+`double`: double-precision floating point value  
+`float`: Single-precision floating point value.  
+
+for example we used `int main()`, since `main` returns ti an integer value, 0.Therefore, for defining eny function or variable, it is needed to declare its type first. Generaly, we have two types of variables in C++. 
+- Global variables
+These variables is defined outside of any functions even `main`, and scope (every { } called scope), they can be accessed everywhere. 
+
+- Local variables
+Local variables are declared inside the braces of any user defined function, main function, loops or any control statements(if, if-else etc) and have their scope limited inside those braces. See the examples [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/tree/main/V-types)
+
+- **Operators in C++**
+
+
