@@ -34,3 +34,11 @@ of program depneds on this function, the `int` here denotes type of the varibles
 that I've explained it in the type folder. Just know that since our `main()` function
 returns to the 0 (as an integer value), here I have used `int`.
 
+`cout`- One of the best changes advented in C++. It's used instead of `printf` in 
+C. Both of them are work in C++, but in my opinion, from now it is better to 
+used `cout`.  
+```
+cout<<"Every thing here would be printed"<<endl
+```
+`endl` is used for indicate that the line is finished and add a noew line would ne added.
+Alternate command in `"\n"`. It just leads the crouser to the next line.   
