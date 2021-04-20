@@ -43,7 +43,7 @@ cout<<"Every thing here would be printed"<<endl
 `endl` is used for indicating that the line is finished and a new line would be added. Alternate command in `"\n"`. It just leads to the next line.  
 See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/tree/main/hello-world)
 
--**Variables and Data types**
+- **Variables and Data types**
 
 `int`: Holes for integer values  
 `char`: holed for character value like 'c', 'F', 'e', 'E', 'q', etc.  
