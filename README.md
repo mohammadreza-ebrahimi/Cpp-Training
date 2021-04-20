@@ -40,5 +40,5 @@ used `cout`.
 ```
 cout<<"Every thing here would be printed"<<endl
 ```
-`endl` is used for indicate that the line is finished and add a noew line would ne added.
+`endl` is used for indicate that line is finished and a new line would ne added.
 Alternate command in `"\n"`. It just leads the crouser to the next line.   
