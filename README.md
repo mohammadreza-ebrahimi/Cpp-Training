@@ -52,10 +52,10 @@ See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/tree/m
 `float`: Single-precision floating point value.  
 
 for example we used `int main()`, since `main` returns ti an integer value, 0.Therefore, for defining eny function or variable, it is needed to declare its type first. Generaly, we have two types of variables in C++. 
-- Global variables
+- Global variables  
 These variables is defined outside of any functions even `main`, and scope (every { } called scope), they can be accessed everywhere. 
 
-- Local variables
+- Local variables  
 Local variables are declared inside the braces of any user defined function, main function, loops or any control statements(if, if-else etc) and have their scope limited inside those braces. See the examples [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/tree/main/V-types)
 
 - **Operators in C++**
