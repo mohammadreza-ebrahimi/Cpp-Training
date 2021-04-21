@@ -79,3 +79,6 @@ See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/m
 - Assignment, Auto-increment and Auto-decrement operators
 
 Those have been explained with examples in this [file](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-2%2C3.C)
+
+- Logical Operators  
+
