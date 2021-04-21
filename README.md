@@ -75,7 +75,7 @@ Local variables are declared inside the braces of any user defined function, mai
 \*:Multiplication  
 /:Division  
 %:Modulo operator returns remainder  
-
+See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-1.C)
 - Assignment, Auto-increment and Auto-decrement operators
 
-Those have been explained with examples in this [file]()
+Those have been explained with examples in this [file](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-2%2C3.C)
