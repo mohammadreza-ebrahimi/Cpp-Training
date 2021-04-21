@@ -58,6 +58,24 @@ These variables is defined outside of any functions even `main`, and scope (ever
 - Local variables  
 Local variables are declared inside the braces of any user defined function, main function, loops or any control statements(if, if-else etc) and have their scope limited inside those braces. See the examples [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/tree/main/V-types)
 
-- **Operators in C++**
+- **Operators in C++**  
 
+1) Basic Arithmetic Operators 
+2) Assignment Operators  
+3) Auto-increment and Auto-decrement Operators  
+4) Logical Operators  
+5) Comparison (relational) operators  
+6) Bitwise Operators  
+7) Ternary Operator  
 
+- Arithmetic Operators
+
++: Addition  
+-: Subtraction  
+\*:Multiplication  
+/:Division  
+%:Modulo operator returns remainder  
+
+- Assignment, Auto-increment and Auto-decrement operators
+
+Those have been explained with examples in this [file]()
