@@ -87,7 +87,7 @@ Logical Operators are used with binary variables i.e. boolean.
 They are mainly used in conditional statements and loops for evaluating 
 a condition.  
 **&&** - will return true if both variables are true, else it would return false.  
-**||** - will return false in both variables are false, else it would return true.  
+**\|\|** - will return false in both variables are false, else it would return true.  
 **!var1** -  will return the oposite of `var1`, means it would be true if `var1` is false
 and would be false if `var1` is true. Let's see an example:
 
