@@ -107,9 +107,8 @@ int main(){
         return 0;
 }
 ```
- <div class="square">box</div> 
+the output would be
 ```cpp
-
  b1 && b2: 0
  b1 || b2: 1
  !b1: 0
