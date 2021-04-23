@@ -81,4 +81,37 @@ See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/m
 Those have been explained with examples in this [file](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-2%2C3.C)
 
 - Logical Operators  
+&& , || , !  
 
+Logical Operators are used with binary variables i.e. boolean. 
+They are mainly used in conditional statements and loops for evaluating 
+a condition.  
+**&&** - will return true if both variables are true, else it would return false.
+**||** - will return false in both variables are false, else it would return true.
+**!**var1 -  will return the oposite of `var1`, means it would be true if `var1` is false
+and would be false if `var1` is true. Let's see an example:
+
+```cpp
+#include<iostream>
+using namespace std;
+// Assume we have two boolean variables, b1 and b2. therefore:
+
+int main(){
+        bool b1=true;
+        bool b2=false;
+
+        cout<<" b1 && b2: "<<(b1&&b2)<<endl;
+        cout<<" b1 || b2: "<<(b1||b2)<<endl;
+        cout<<" !b1: "<<!b1<<endl;
+        cout<<"!(b1 && b2): "<<!(b1&&b2)<<"\n";
+        return 0;
+}
+```
+ <div class="square">box</div> 
+```cpp
+
+ b1 && b2: 0
+ b1 || b2: 1
+ !b1: 0
+!(b1 && b2): 1
+```
