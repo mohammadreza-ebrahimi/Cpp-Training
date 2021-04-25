@@ -25,7 +25,7 @@ int main(){
 }
 */
 
-//Average with using &&
+//Average of two scores inculdes &&
 int main(){
         int num1, num2;
 //        cout<<"Number 3 is: "<<num3<<endl;
