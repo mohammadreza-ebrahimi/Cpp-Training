@@ -76,7 +76,7 @@ Local variables are declared inside the braces of any user defined function, mai
 /:Division  
 %:Modulo operator returns remainder  
 See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-1.C)
-- **Assignment, Auto-increment and Auto-decrement operators**
+- **Assignment, Auto-increment and Auto-decrement operators**  
 Assume we have two different variabels num1 and num2, assignment operators act as   
 
 num2=num1 => equal number2 to the variable num1  
@@ -126,6 +126,7 @@ the output would be
  !b1: 0
 !(b1 && b2): 1
 ```
+Further examples can be found [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-4.C) 
 
 - **Relational Operators**
 In C++, We have six relational operators as follows:    
@@ -133,8 +134,10 @@ In C++, We have six relational operators as follows:
 != returns true if leaft side is not equal to rhe right side of operator  
 \> returns true if left side is greater than right  
 \< returns true if left side is less than right  
->= returns true if left side is greater than or equal to right  
-<= returns true if left side is less than or equal to right  
+\>= returns true if left side is greater than or equal to right  
+\<= returns true if left side is less than or equal to right  
+
+
 
 
 
