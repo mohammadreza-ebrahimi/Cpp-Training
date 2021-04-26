@@ -135,8 +135,9 @@ In C++, We have six relational operators as follows:
 \> returns true if left side is greater than right  
 \< returns true if left side is less than right  
 \>= returns true if left side is greater than or equal to right  
-\<= returns true if left side is less than or equal to right  
+\<= returns true if left side is less than or equal to right    
 
+See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-5.C)
 
 
 
