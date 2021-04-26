@@ -128,7 +128,8 @@ the output would be
 ```
 Further examples can be found [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-4.C) 
 
-- **Relational Operators**
+- **Relational Operators**  
+
 In C++, We have six relational operators as follows:    
 == returns true if both sides are equals to each other  
 != returns true if leaft side is not equal to rhe right side of operator  
