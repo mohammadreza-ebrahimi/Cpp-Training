@@ -79,12 +79,12 @@ See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/m
 - **Assignment, Auto-increment and Auto-decrement operators**
 Assume we have two different variabels num1 and num2, assignment operators act as   
 
-num2=num1 => equal number2 to the variable num1
-num2+=num1 => num2=num2+num1
-num2-=num1 => num2=num2-num1
-num2/=num1 => num2=num2/num1
-num2*=num1 => num2=num2*num1
-num2\%=num1 => num2=num2\%num1
+num2=num1 => equal number2 to the variable num1  
+num2+=num1 => num2=num2+num1  
+num2-=num1 => num2=num2-num1  
+num2/=num1 => num2=num2/num1  
+num2*=num1 => num2=num2*num1  
+num2\%=num1 => num2=num2\%num1  
 
 also Auto-increment and Auto-decrement operators are  
 num1++ => num1+1
@@ -131,8 +131,8 @@ the output would be
 In C++, We have six relational operators as follows:    
 == returns true if both sides are equals to each other  
 != returns true if leaft side is not equal to rhe right side of operator  
-> returns true if left side is greater than right  
-< returns true if left side is less than right  
+\> returns true if left side is greater than right  
+\< returns true if left side is less than right  
 >= returns true if left side is greater than or equal to right  
 <= returns true if left side is less than or equal to right  
 
