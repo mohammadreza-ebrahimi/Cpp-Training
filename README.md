@@ -12,7 +12,7 @@ Here's I've listed the concepts you are supposed to learn.
 - Operators in C++
 
 ***
-- **First C++ Program**
+### First C++ Program
 In the folder **Hello-World** there exist a tutorial so that you can 
 write a program to see `Hello World` in output. In this tutorial I've used 
 
@@ -43,7 +43,7 @@ cout<<"Every thing here would be printed"<<endl
 `endl` is used for indicating that the line is finished and a new line would be added. Alternate command in `"\n"`. It just leads to the next line.  
 See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/tree/main/hello-world)
 
-- **Variables and Data types**
+### Variables and Data types
 
 `int`: Holes for integer values  
 `char`: holed for character value like 'c', 'F', 'e', 'E', 'q', etc.  
@@ -58,7 +58,7 @@ These variables is defined outside of any functions even `main`, and scope (ever
 - Local variables  
 Local variables are declared inside the braces of any user defined function, main function, loops or any control statements(if, if-else etc) and have their scope limited inside those braces. See the examples [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/tree/main/V-types)
 
-- **Operators in C++**  
+### Operators in C++
 
 1) Basic Arithmetic Operators 
 2) Assignment Operators  
@@ -68,7 +68,7 @@ Local variables are declared inside the braces of any user defined function, mai
 6) Bitwise Operators  
 7) Ternary Operator  
 
-- Arithmetic Operators
+- **Arithmetic Operators**
 
 +: Addition  
 -: Subtraction  
@@ -76,11 +76,23 @@ Local variables are declared inside the braces of any user defined function, mai
 /:Division  
 %:Modulo operator returns remainder  
 See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-1.C)
-- Assignment, Auto-increment and Auto-decrement operators
+- **Assignment, Auto-increment and Auto-decrement operators**
+Assume we have two different variabels num1 and num2, assignment operators act as   
+
+num2=num1 => equal number2 to the variable num1
+num2+=num1 => num2=num2+num1
+num2-=num1 => num2=num2-num1
+num2/=num1 => num2=num2/num1
+num2*=num1 => num2=num2*num1
+num2\%=num1 => num2=num2\%num1
+
+also Auto-increment and Auto-decrement operators are  
+num1++ => num1+1
+num1-- => num1-1
 
 Those have been explained with examples in this [file](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-2%2C3.C)
 
-- Logical Operators  
+- **Logical Operators**  
 && , || , !  
 
 Logical Operators are used with binary variables i.e. boolean. 
@@ -114,3 +126,15 @@ the output would be
  !b1: 0
 !(b1 && b2): 1
 ```
+
+- **Relational Operators**
+In C++, We have six relational operators as follows:    
+== returns true if both sides are equals to each other  
+!= returns true if leaft side is not equal to rhe right side of operator  
+> returns true if left side is greater than right  
+< returns true if left side is less than right  
+>= returns true if left side is greater than or equal to right  
+<= returns true if left side is less than or equal to right  
+
+
+
