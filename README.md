@@ -138,8 +138,23 @@ In C++, We have six relational operators as follows:
 \>= returns true if left side is greater than or equal to right  
 \<= returns true if left side is less than or equal to right    
 
-See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-5.C)
+See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-5.C)  
 
+***  
+## Flow Control  
+- _if_ statement  
+- nested _if_ statement  
+- _if-else_ statement  
+- _if-else-if_ statement  
 
+***  
+### _if_ statement  
+The `if` is included a condition and one or several statements that gets executed. it is written in following form  
+```cpp
 
+if (condition){
+        statement(s);
+        }
+```  
+The statement inside the `{ }` would be only executed if the given `condition` is true, otherwise, it would be ignored. 
 
