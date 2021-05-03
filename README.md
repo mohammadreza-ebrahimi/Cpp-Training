@@ -156,5 +156,8 @@ if (condition){
         statement(s);
         }
 ```  
-The statement inside the `{ }` would be only executed if the given `condition` is true, otherwise, it would be ignored. You can see the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/f-control/if.C).
+The statement inside the `{ }` would be only executed if the given `condition` is true, otherwise, it would be ignored. You can see the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/f-control/if.C).  
+
+### nested _if_ statement  
+
 
