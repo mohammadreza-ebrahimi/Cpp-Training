@@ -159,5 +159,15 @@ if (condition){
 The statement inside the `{ }` would be only executed if the given `condition` is true, otherwise, it would be ignored. You can see the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/f-control/if.C).  
 
 ### nested _if_ statement  
-
-
+When there is `if` statement inside another `if` statement, that would be **nested _if_ statement**. The structure looks as below  
+```cpp
+if (condition1){
+        statement(s);
+        }
+  if (condition2){
+          statement(s);
+          }
+}
+```
+First `statement` executes if the condition1 is true, also second `statement` executes if both condition1 and condition2 are true.  
+See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-Training/tree/main/2-%20flowControl/nested-if)
