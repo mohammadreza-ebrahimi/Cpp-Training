@@ -41,7 +41,7 @@ used `cout`.
 cout<<"Every thing here would be printed"<<endl
 ```
 `endl` is used for indicating that the line is finished and a new line would be added. Alternate command in `"\n"`. It just leads to the next line.  
-See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/tree/main/hello-world)
+See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-Training/tree/main/1-Basic/hello-world)
 
 ### Variables and Data types
 
@@ -56,7 +56,7 @@ for example we used `int main()`, since `main` returns ti an integer value, 0.Th
 These variables is defined outside of any functions even `main`, and scope (every { } called scope), they can be accessed everywhere. 
 
 - Local variables  
-Local variables are declared inside the braces of any user defined function, main function, loops or any control statements(if, if-else etc) and have their scope limited inside those braces. See the examples [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/tree/main/V-types)
+Local variables are declared inside the braces of any user defined function, main function, loops or any control statements(if, if-else etc) and have their scope limited inside those braces. See the examples [here]https://github.com/mohammadreza-ebrahimi/Cpp-Training/tree/main/1-Basic/V-types)
 
 ### Operators in C++
 
@@ -75,7 +75,7 @@ Local variables are declared inside the braces of any user defined function, mai
 \*:Multiplication  
 /:Division  
 %:Modulo operator returns remainder  
-See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-1.C)
+See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-Training/tree/main/1-Basic/operators)
 - **Assignment, Auto-increment and Auto-decrement operators**  
 Assume we have two different variabels num1 and num2, assignment operators act as   
 
@@ -90,7 +90,7 @@ also Auto-increment and Auto-decrement operators are
 num1++ => num1+1
 num1-- => num1-1
 
-Those have been explained with examples in this [file](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-2%2C3.C)
+Those have been explained with examples in this [file](https://github.com/mohammadreza-ebrahimi/Cpp-Training/tree/main/1-Basic/operators)
 
 - **Logical Operators**  
 && , || , !  
@@ -126,7 +126,7 @@ the output would be
  !b1: 0
 !(b1 && b2): 1
 ```
-Further examples can be found [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-4.C) 
+Further examples can be found [here](https://github.com/mohammadreza-ebrahimi/Cpp-Training/tree/main/1-Basic/operators) 
 
 - **Relational Operators**  
 
@@ -138,7 +138,7 @@ In C++, We have six relational operators as follows:
 \>= returns true if left side is greater than or equal to right  
 \<= returns true if left side is less than or equal to right    
 
-See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/operators/operators-5.C)  
+See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-Training/tree/main/1-Basic/operators)  
 
 ***  
 ## Flow Control  
@@ -156,7 +156,7 @@ if (condition){
         statement(s);
         }
 ```  
-The statement inside the `{ }` would be only executed if the given `condition` is true, otherwise, it would be ignored. You can see the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-basic/blob/main/f-control/if.C).  
+The statement inside the `{ }` would be only executed if the given `condition` is true, otherwise, it would be ignored. You can see the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-Training/tree/main/2-%20flowControl/if).  
 
 ### nested _if_ statement  
 When there is `if` statement inside another `if` statement, that would be **nested _if_ statement**. The structure looks as below  
