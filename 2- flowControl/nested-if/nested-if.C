@@ -19,17 +19,14 @@ int main(){
 	scanf("%d", &num2);
 	cout<<"Third number is: ";
 	scanf("%d", &num3);
-	
-	
+
+
 	if (num1<=num3 && num2<=num3){
 
-	cout<<"Number3 is the beiggest= "<<num3<<endl;
+	cout<<"Number3 is the beiggest number = "<<num3<<endl;
 		if(num3<100){
 		cout<<"All numbers are less than 100"<<endl;
 		}
-	}
-	else{
-	cout<<"All numbers are not less than 100"<<endl;
 	}
 	return 0;
 }
