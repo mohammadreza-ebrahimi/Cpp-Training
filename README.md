@@ -3,7 +3,7 @@
 In this repository, you would be trained the basics of C++ programming language.  
 I have decided to train it step by step. If you do not know anything about **C/C++**
 there's no a problem. Just stick to the tutorial, at the end, you will be a C programmer. 
-Here's I've listed the concepts you are supposed to learn.  
+Here's I've listed the concepts you are supposed to learn. Also, there's very good websites to learn it like [this](https://beginnersbook.com/2017/08/c-plus-plus-tutorial-for-beginners/). 
 
 ## Basics
 
@@ -170,4 +170,9 @@ if (condition1){
 }
 ```
 First `statement` executes if the condition1 is true, also second `statement` executes if both condition1 and condition2 are true.  
-See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-Training/tree/main/2-%20flowControl/nested-if)
+See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-Training/tree/main/2-%20flowControl/nested-if)  
+
+### _if else if_ statement  
+This coding structure is used when you want to check weather a condition is satisfied or not, if it is satisfied, the statement inside would be executed, otherwise you may apply for another condition, here you have to use `else if`. So, the next condition would be executed unless the first one have been met. The structure contains mainly one `if` and one `else`, between them you can run `else if` as much as you want. 
+
+
