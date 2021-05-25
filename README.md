@@ -173,6 +173,8 @@ First `statement` executes if the condition1 is true, also second `statement` ex
 See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-Training/tree/main/2-%20flowControl/nested-if)  
 
 ### _if else if_ statement  
-This coding structure is used when you want to check weather a condition is satisfied or not, if it is satisfied, the statement inside would be executed, otherwise you may apply for another condition, here you have to use `else if`. So, the next condition would be executed unless the first one have been met. The structure contains mainly one `if` and one `else`, between them you can run `else if` as much as you want. 
+This coding structure is used when you want to check weather a condition is satisfied or not, if it is satisfied, the statement inside would be executed, otherwise you may apply for another condition, here you have to use `else if`. So, the next condition would be executed unless the first one have been met. The structure contains mainly one `if` and one `else`, between them you can run `else if` as much as you want.   
+
+See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-Training/tree/main/2-%20flowControl/nested-if)
 
 
