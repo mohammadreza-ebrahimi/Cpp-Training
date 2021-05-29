@@ -43,7 +43,8 @@ cout<<"Every thing here would be printed"<<endl
 `endl` is used for indicating that the line is finished and a new line would be added. Alternate command in `"\n"`. It just leads to the next line.  
 See the example [here](https://github.com/mohammadreza-ebrahimi/Cpp-Training/tree/main/1-Basic/hello-world)  
 
-_Note that the files which is not indicate its type, are the compilers. There are not manulay execute. Just care about `.c` files._
+_Note that the files which is not indicate its type, are the compilers. They do not not manualy execute. Just care about `.c` files._  
+In linux, after implementing your program in a `.C` file, you have to compile it first. By typing `g++ filename.C -o filename`, you able to compile it and check whether there exist any error in your code or not. 
 ### Variables and Data types
 
 `int`: Holes for integer values  
